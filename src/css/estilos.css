@@ -1,6 +1,5 @@
 body {
   background-color: hsl(212, 45%, 89%);
-  padding: 0;
   height: 100vh;
   display: flex;
   align-items: center;
@@ -8,35 +7,25 @@ body {
   font-family: "Outfit", sans-serif;
   font-weight: 400;
 }
-#qr {
+main {
   border-radius: 20px;
   background-color: white;
-  width: 20%;
-  height: 65%;
-  min-height: auto;
-  aspect-ratio: 310/420;
-  min-width: auto;
+  max-width: 25rem;
   text-align: center;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-  padding: 5px;
   overflow: hidden;
 }
-#imagen {
+img {
   border-radius: 20px 20px 30px 30px;
   width: 92%;
-  aspect-ratio: 1;
-  display: block;
-  margin: 0px auto;
   padding: 10px 0px 20px 0px;
 }
-#qr h1 {
+main h1 {
   color: hsl(218, 44%, 22%);
   font-size: 1em;
   margin: 0;
 }
-#qr p {
+p {
   padding: 0.7em 0.9em 0.7em 0.9em;
   font-size: 0.8em;
   color: hsl(216, 15%, 48%);
-  margin: 0.5 auto;
 }

@@ -7,13 +7,13 @@ body {
   justify-content: center;
   font-family: "Outfit", sans-serif;
   font-weight: 400;
-  margin: 0;
 }
 #qr {
   border-radius: 20px;
   background-color: white;
-  width: 17%;
-  height: 54%;
+  width: 14%;
+  height: 56%;
+  min-height: auto;
   aspect-ratio: 310/420;
   text-align: center;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
@@ -28,14 +28,14 @@ body {
   margin: 0px auto;
   padding: 10px 0px 20px 0px;
 }
-#qr h2 {
+#qr h1 {
   color: hsl(218, 44%, 22%);
-  font-size: 1.2rem;
+  font-size: 1.2em;
   margin: 0;
 }
 #qr p {
-  padding: 0.7rem 0.9rem 0.7rem 0.9rem;
-  font-size: 0.95rem;
+  padding: 0.7em 0.9em 0.7em 0.9em;
+  font-size: 0.95em;
   color: hsl(216, 15%, 48%);
   margin: 0.5 auto;
 }

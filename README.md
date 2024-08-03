@@ -22,10 +22,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
 - Live Site URL: [Github Pages](https://testing-skills.github.io/qr-component-challenge/src/)
-<<<<<<< HEAD
-=======
-
->>>>>>> 8ebc94168bb26621d5aad14900385a979a2127ff
 
 ## My process
 

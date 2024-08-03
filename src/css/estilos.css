@@ -10,7 +10,7 @@ body {
 main {
   border-radius: 20px;
   background-color: white;
-  max-width: 25rem;
+  max-width: 20rem;
   text-align: center;
   overflow: hidden;
 }

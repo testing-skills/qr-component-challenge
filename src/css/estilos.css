@@ -11,7 +11,7 @@ body {
 #qr {
   border-radius: 20px;
   background-color: white;
-  width: 12%;
+  width: 20%;
   height: 60%;
   min-height: auto;
   aspect-ratio: 310/420;

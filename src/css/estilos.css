@@ -30,12 +30,12 @@ body {
 }
 #qr h1 {
   color: hsl(218, 44%, 22%);
-  font-size: 1.2em;
+  font-size: 1em;
   margin: 0;
 }
 #qr p {
   padding: 0.7em 0.9em 0.7em 0.9em;
-  font-size: 0.95em;
+  font-size: 0.8em;
   color: hsl(216, 15%, 48%);
   margin: 0.5 auto;
 }

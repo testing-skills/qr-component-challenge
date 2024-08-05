@@ -3,16 +3,14 @@ body {
   height: 100vh;
   display: flex;
   align-items: center;
-  justify-content: center;
   font-family: "Outfit", sans-serif;
-  font-weight: 400;
 }
 main {
   border-radius: 20px;
   background-color: white;
-  max-width: 20rem;
+  max-width: 20em;
   text-align: center;
-  overflow: hidden;
+  margin: 0 auto;
 }
 img {
   border-radius: 20px 20px 30px 30px;
@@ -21,11 +19,11 @@ img {
 }
 main h1 {
   color: hsl(218, 44%, 22%);
-  font-size: 1em;
+  font-size: 1.3em;
   margin: 0;
 }
 p {
   padding: 0.7em 0.9em 0.7em 0.9em;
-  font-size: 0.8em;
+  font-size: 0.98em;
   color: hsl(216, 15%, 48%);
 }
